@@ -15,18 +15,14 @@ Time spent: around 40 hours
 
 Completed User Stories:
 
-* [x] (Suggested) 1. Persisted the todo items into SQLite instead of a text file
-* [x] (Optional)  2. extended the basic ListView to ExpandableListView
-* [x] (Suggested) 3. Improved style of the todo items in the list using a custom adapter (customized ExpandableList Adapter)
-* [x] (Suggested) 4. Added support for completion due dates for todo items (and display within listview item, editable)
-* [x] (Optional)  5. Did Better implememnt for editing text than suggestion by using Use "ExpandableListView"
-* [x] (Optional)  6. Added support for selecting the priority of each todo item (and display in listview item)
-* [x] (Optional)  7. Improved the UI / UX, tweaked colors and backgrounds (drawable)
-* [x] (Optional)  8. Implemented drag and drop to make the item's order changable for ExpandableList
-* [x] Successfully add and remove items from the todo list within my app
 * [x] 1. (Suggested) Persisted the todo items into SQLite instead of a text file
-* [x] Include support for editing todo items
-* [x] Persist todo items and retrieve them properly on app restart a
+* [x] 2. (Optional)  extended the basic ListView to ExpandableListView
+* [x] 3. (Suggested) Improved style of the todo items in the list using a custom adapter (customized ExpandableList Adapter)
+* [x] 4. (Suggested) Added support for completion due dates for todo items (and display within listview item, editable)
+* [x] 5. (Optional)  Did Better implememnt for editing text than suggestion by using Use "ExpandableListView"
+* [x] 6. (Optional)  Added support for selecting the priority of each todo item (and display in listview item)
+* [x] 7. (Optional)  Improved the UI / UX, tweaked colors and backgrounds (drawable)
+* [x] 8. (Optional)  Implemented drag and drop to make the item's order changable for ExpandableList
  
 Notes:
 

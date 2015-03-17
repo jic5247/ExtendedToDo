@@ -28,7 +28,7 @@ Completed User Stories:
  
 Notes:
 
-Spent around 5 hours to learna and implement user stories#2, 3 & 5. Spent around another 5 hours to resreach and tweak user stories#7, UI/UX. Spent around another 10 hours in total to do resreach, implement and debug user stories#8. Spend 4 hour to add functions of user stories#4 & 6, "due date" and "Priority". Spent around two days (16 hours) on the to SQLite implememntation, breakdown: researching on "SQLite" and "SQLiteOpenHelper" class (3 hours), implementing & coding (4 hours) & debuging 9 hours along merging with the other components in this app, specially the "ExpandableListAdaptor" and the "drag and drop" function in "ExpandableListView" class.
+Spent around 5 hours to learna and implement user stories#2, 3 & 5. Spent around another 5 hours to resreach and tweak user stories#7, UI/UX. Spent around another 10 hours in total to do resreach, implement and debug user stories#8, "drag and drop". Spend 4 hour to add functions of user stories#4 & 6, "due date" and "Priority". Spent around two days (16 hours) on the to SQLite implememntation, breakdown: researching on "SQLite" and "SQLiteOpenHelper" class (3 hours), implementing & coding (4 hours) & debuging 9 hours along merging with the other components in this app, specially the "ExpandableListAdaptor" and the "drag and drop" function in "ExpandableListView" class.
 
 Walkthrough of all user stories:
 

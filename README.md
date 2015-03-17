@@ -24,10 +24,10 @@ Completed User Stories:
                      (display within listview item, editable)
 * [x] 5. (Optional)  Did Better implememnt for editing text than suggestion by using Use "ExpandableListView"
 * [x] 6. (Optional)  Added support for selecting the priority of each todo item 
-                     (display in listview item, Spinner, Seekbar)
+*                    (display in listview item, Spinner, Seekbar)
 * [x] 7. (Optional)  Improved the UI / UX, tweaked colors and backgrounds (drawable)
 * [x] 8. (Optional)  Implemented drag and drop to make the item's order changable for ExpandableList
-                     (Only found a example for ListView, there is no suitable example online so far like my implementation)
+*                    (Only found a example for ListView, there is no suitable example online so far like my implementation)
  
 Notes:
 

@@ -23,6 +23,9 @@ Completed User Stories:
 * [x] (Optional)  6. Added support for selecting the priority of each todo item (and display in listview item)
 * [x] (Optional)  7. Improved the UI / UX, tweaked colors and backgrounds (drawable)
 * [x] (Optional)  8. Implemented drag and drop to make the item's order changable for ExpandableList
+* [x] Successfully add and remove items from the todo list within my app
+* [x] Include support for editing todo items
+* [x] Persist todo items and retrieve them properly on app restart
  
 Notes:
 

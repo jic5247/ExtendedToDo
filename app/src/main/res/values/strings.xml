@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ExtendedToDo</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="addBtn_tag">Add</string>
+    <string name="txtf_hint">Add a item</string>
+    <string name="saveETitem">Type text to modify</string>
+    <string name="ptv_text">Priority</string>
+    <string name="datebtn_etc">MM/DD/YY\\nWDY</string>
+</resources>

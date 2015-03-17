@@ -32,6 +32,6 @@ Spent around 5 hours to learna and implement user stories#2, 3 & 5. Spent around
 
 Walkthrough of all user stories:
 
-![Video Walkthrough](https://cloud.githubusercontent.com/assets/10843448/6545468/2935448e-c546-11e4-897b-67adc1d29136.gif)
+![Video Walkthrough](https://cloud.githubusercontent.com/assets/10843448/6682283/79dd0982-cc33-11e4-92a6-54c663765667.gif)
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).

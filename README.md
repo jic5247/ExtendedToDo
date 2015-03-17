@@ -11,6 +11,8 @@ Please click on the fellowing link to the materials of my research:
 
 [Android Development Tutorial: Spinner](http://developer.android.com/guide/topics/ui/controls/spinner.html)
 
+[Stackoverflow: Android SeekBar setOnSeekBarChangeListener](http://stackoverflow.com/questions/8956218/android-seekbar-setonseekbarchangelistener)
+
 Time spent: around 40 hours
 
 Completed User Stories:

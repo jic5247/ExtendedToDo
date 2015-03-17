@@ -17,10 +17,10 @@ Completed User Stories:
 
 * [x] 1. (Suggested) Persisted the todo items into SQLite instead of a text file
 * [x] 2. (Optional)  extended the basic ListView to ExpandableListView
-* [x] 3. (Suggested) Improved style of the todo items in the list with a custom adapter (ExpandableListAdapter)
+* [x] 3. (Suggested) Improved style of the todolist items with a custom adapter (ExpandableListAdapter)
 * [x] 4. (Suggested) Added support for completion due dates for todo items (display within listview item, editable)
 * [x] 5. (Optional)  Did Better implememnt for editing text than suggestion by using Use "ExpandableListView"
-* [x] 6. (Optional)  Added support for selecting the priority of each todo item (and display in listview item)
+* [x] 6. (Optional)  Added support for selecting the priority of each todo item (display in listview item, Spinner, Seekbar)
 * [x] 7. (Optional)  Improved the UI / UX, tweaked colors and backgrounds (drawable)
 * [x] 8. (Optional)  Implemented drag and drop to make the item's order changable for ExpandableList
  

@@ -2,23 +2,31 @@
 
 Please click on the fellowing link to the materials of my research:
 
-[Android Training: Common Intents](https://developer.android.com/guide/components/intents-common.html)
+[SQLite research#1](http://www.tutorialspoint.com/sqlite/sqlite_delete_query.htm)
+[SQLite research#2](http://hmkcode.com/android-simple-sqlite-database-tutorial/)
 
-[Android Training: Getting a Result from an Activity](http://developer.android.com/training/basics/intents/result.html)
+[Research on ExpandableListView + ExpandableListAdaptor](http://examples.javacodegeeks.com/android/core/ui/expandablelistview/android-expandablelistview-example/)
 
-[Stackoverflow: How to manage start activity for result on Android?](http://stackoverflow.com/questions/10407159/how-to-manage-start-activity-for-result-on-android)
+[Youtube: DevBytes--ListView Cell Dragging and Rearranging](https://www.youtube.com/watch?v=_BZIvjMgH-Q)
 
-Time spent: around 6 hours
+[Android Development Tutorial: Spinner](http://developer.android.com/guide/topics/ui/controls/spinner.html)
+
+Time spent: around 40 hours
 
 Completed User Stories:
 
-* [x] Successfully add and remove items from the todo list within my app
-* [x] Include support for editing todo items
-* [x] Persist todo items and retrieve them properly on app restart
+* [x] (Suggested) 1. Persisted the todo items into SQLite instead of a text file
+* [x] (Optional)  2. extended the basic ListView to ExpandableListView
+* [x] (Suggested) 3. Improved style of the todo items in the list using a custom adapter (customized ExpandableList Adapter)
+* [x] (Suggested) 4. Added support for completion due dates for todo items (and display within listview item, editable)
+* [x] (Optional)  5. Did Better implememnt for editing text than suggestion by using Use "ExpandableListView"
+* [x] (Optional)  6. Added support for selecting the priority of each todo item (and display in listview item)
+* [x] (Optional)  7. Improved the UI / UX, tweaked colors and backgrounds (drawable)
+* [x] (Optional)  8. Implemented drag and drop to make the item's order changable for ExpandableList
  
 Notes:
 
-Spent around 3 hours to watch the walk-thought videos to set up "Android Studio" and type codes for the initial 2 user stories. Spent around another 3 hours to design the second activity of edit item and did research on "StartActvityForResult()", "Intent" and "Intent.putExtras()". This is a very out-standing introductory tutorial for a beginner toward Android development.
+Spent around 5 hours to learna and implement user stories#2, 3 & 5. Spent around another 5 hours to resreach and tweak user stories#7, UI/UX. Spent around another 10 hours in total to do resreach, implement and debug user stories#8. Spend 4 hour to add functions of user stories#4 & 6, "due date" and "Priority". Spent around two days (16 hours) on the to SQLite implememntation, breakdown: researching on "SQLite" and "SQLiteOpenHelper" class (3 hours), implementing & coding (4 hours) & debuging 9 hours along merging with the other components in this app, specially the "ExpandableListAdaptor" and the "drag and drop" function in "ExpandableListView" class.
 
 Walkthrough of all user stories:
 
